@@ -1,0 +1,17 @@
+{
+ "items" : [
+     {
+    "name" : "yousef",
+    "age" : 33,
+    "gender" : "male",
+    "lovingfood" : true
+     },
+     {
+     "name" : "kariam",
+     "age" : 83,
+     "gender" : "male",
+     "lovingfood" : false
+     }
+ ]   
+}
+ 
